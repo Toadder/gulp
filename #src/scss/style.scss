@@ -7,4 +7,9 @@
       font-style: #{$style};
    }
 }
+
+@import "vars";
 @import "fonts";
+@import "reset";
+@import "global";
+
